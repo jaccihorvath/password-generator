@@ -33,5 +33,3 @@ The finished project can be deployed [here](https://jaccihorvath.github.io/passw
 
 ### Demo
 ![password-generator](assets/password-generator.gif)
-
-
