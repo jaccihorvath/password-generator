@@ -29,7 +29,7 @@ After the "Generate Password" button is clicked, the user will:
 The finished project can be deployed [here](https://jaccihorvath.github.io/password-generator/).
 
 ### Landing Page
-![landing-page](assets/landing-page.png)
+![landing-page](Assets/landing-page.png)
 
 ### Demo
-![password-generator](assets/password-generator.gif)
+![password-generator](Assets/password-generator.gif)
