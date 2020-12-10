@@ -9,7 +9,10 @@ In this repository, you will find an application that can be used to generate a 
 
 This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code written by me. It has a clean and polished user interface that is responsive to multiple screen sizes.
 
-
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
 
 ## How it Works
 After the "Generate Password" button is clicked, the user will:
@@ -33,3 +36,8 @@ The finished project can be deployed [here](https://jaccihorvath.github.io/passw
 
 ### Demo
 ![password-generator](Assets/password-generator.gif)
+
+## Contact Information
+Jacci Horvath, [workwithjacci@gmail.com](mailto:workwithjacci@gmail.com), 330-507-5166
+
+Original code provided by trilogy.
